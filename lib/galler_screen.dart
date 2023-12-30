@@ -7,6 +7,7 @@ class GalleryView extends StatefulWidget {
 
   const GalleryView({Key? key, required this.imageList}) : super(key: key);
 
+
   @override
   State<GalleryView> createState() => _GalleryViewState();
 }
