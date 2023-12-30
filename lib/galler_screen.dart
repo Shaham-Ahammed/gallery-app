@@ -22,6 +22,9 @@ class _GalleryViewState extends State<GalleryView> {
         child: Padding(
           padding: const EdgeInsets.all(12),
           child: GridView.builder(
+
+
+            
             gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
               crossAxisCount: 3, 
               crossAxisSpacing: 10.0,
