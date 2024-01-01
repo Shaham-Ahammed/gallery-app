@@ -6,7 +6,7 @@ import 'package:image_picker/image_picker.dart';
 
 class Home extends StatelessWidget {
    Home({super.key});
-
+  
   List<String> imageList = [];
 
   Future _getImageFromCamera() async {
