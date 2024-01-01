@@ -11,6 +11,7 @@ class GalleryView extends StatefulWidget {
   @override
   State<GalleryView> createState() => _GalleryViewState();
 }
+//changed on master
 class _GalleryViewState extends State<GalleryView> {
   @override
   Widget build(BuildContext context) {
